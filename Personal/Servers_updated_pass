@@ -1,0 +1,124 @@
+------------Dev---------------
+su pass:- D@w@t!@$#12
+user:- arpit
+pass:- $%arpit%$
+ssh ip:- 192.99.203.196
+ssh port::- 20286
+web ip:- 192.99.101.206
+mysql ip:- 192.99.170.232
+-------------------------------
+------------DB-----------------
+ip: 167.114.103.137
+ssh port: 25086
+user: arpit
+pass: devided/567
+user: ankur
+pass: AnKuR0@123
+user: shivam
+pass: 	
+root pass: ModRatE#$^%23
+-------------------------------
+------------WEB----------------
+ssh 192.99.29.132  port 30086
+root pass ByHoNouR%^*&34
+user shivam
+pass ShIV@mH0n0R@123
+user: ankur
+pass: AnKuR0@123
+-------------------------------
+------------Squid--------------
+user     arpit
+pass    @!arpit!@
+ssh port  4446
+ip          192.99.244.181
+squid port   4420
+root pass Secureadmin@#%$45
+-------------------------------
+------------New----------------
+ip          191.101.235.219
+user       arpit
+pass      arpit@!123
+ssh port  7050
+root pass  BjraFNcuqGC5tg
+-------------------------------
+-------------------------------
+takeovercode.com login details:
+ACCESS SETTINGS:
+
+Your VPS's IPv4 address is: 167.114.155.69
+Your VPS's IPv6 address is: 2607:5300:0100:0200:0000:0000:0000:189c
+
+Your VPS name is: vps45156.vps.ovh.ca
+
+The following administrator account has been configured on the VPS:
+Username:  root
+Password:  W0tuLE8A
+ssh-port:  30859
+ssh-user:  shivam
+Password:  Shivam12345s@#*
+ssh resetter: http://167.114.155.69:2087/scripts2/doautofixer?autofix=safesshrestart
+
+https://www.youtube.com/watch?v=3DXRiAj5KM4
+
+exim installation:-
+http://www.noreplied.com/how-to-install-exim-on-centos-6/
+
+Check server under Dos, DDOS Attack:-
+http://safesrv.net/server-slow-check-whos-connecting-and-how-many-connections-they-have/
+
+zpanel setup:-
+http://www.servermom.org/install-zpanel-centos-6-vps/923/
+
+file permission with searching:-
+find /opt/lampp/htdocs -type d -exec chmod 755 {} \;
+find /opt/lampp/htdocs -type f -exec chmod 644 {} \;
+
+Raid:-
+http://searchstorage.techtarget.com/definition/RAID
+
+redhat questions:-
+http://career.guru99.com/top-50-linux-interview-questions/
+
+daily bases used command:-
+http://www.tecmint.com/useful-linux-commands-for-system-administrators/
+
+regulor expressions:
+http://www.thegeekstuff.com/2010/11/50-linux-commands/
+http://www.thegeekstuff.com/2009/03/15-practical-unix-grep-command-examples/
+http://www.thegeekstuff.com/2009/01/15-practical-usages-of-mysqladmin-command-for-administering-mysql-server/
+http://www.thegeekstuff.com/2008/08/15-examples-to-master-linux-command-line-history/
+
+Pfsense proxy server installation:-
+http://www.tecmint.com/how-to-install-and-configure-pfsense/
+
+#Command to get linux machine external ip address:-
+
+#This would print IPv4 addresses besides 127.0.0.1:
+ifconfig | awk '/inet / && $2 != "127.0.0.1" { print $2 }'
+
+#To be more specific, I suggest that you specify the interface like
+ifconfig eth0 | awk '/inet / { print $2 }'
+
+
+takeovercode mysql database crediancials:-
+user   hitender
+password  HiTenDer#234
+
+#Tomcat server user setings
+<role rolename="tomcat"/>
+  <role rolename="admin"/>
+  <role rolename="admin-gui"/>
+  <role rolename="manager-gui"/>
+  <user username="shivam123" password="shivam$12@34" roles="admin,admin-gui,manager-gui,tomcat"/>
+
+</tomcat-users>
+
+New Scraping Servers:
+181.215.104.22 root RCi2X2dXfvuBED
+181.215.104.21 root fCfcKHcwABHbW2
+181.215.104.23 root AKlhw1OB9RkCdc
+181.215.104.20 root UtMOmnzWMSb7Ep
+181.215.104.24 root wmF0OwMm0beBDr
+
+
+

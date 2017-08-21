@@ -1,0 +1,5 @@
+1) 401 unauthorized error while making clone or pushing in to gitlab
+   - This bug is in older versions of Git , after upgrading it to newer version it will get resolved.
+
+2) Adding public key in .ssh to clone using ssh   - use add-ssh command to add public key in local agent
+3) 
